@@ -1,0 +1,655 @@
+{
+  "docs": [
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Ladybug",
+      "taxonomy": "",
+      "text": "Ladybugs are small, round beetles with bright red or orange shells and distinct black spots. They feed primarily on aphids and other small plant pests, making them beneficial for gardens. They can secrete a foul-tasting fluid to deter predators and can fly short distances to escape danger."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Monarch Butterfly",
+      "taxonomy": "",
+      "text": "Monarch butterflies are large insects with striking orange wings edged in black and white spots. They feed on nectar from flowers and lay eggs exclusively on milkweed plants. Famous for their long migrations across North America, they use bright coloration to warn predators of their toxicity."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Dragonfly",
+      "taxonomy": "",
+      "text": "Dragonflies are elongated, fast-flying insects with transparent wings and large multifaceted eyes. They are predatory, feeding on mosquitoes, flies, and other small insects. Dragonflies are agile hunters and spend part of their life as aquatic nymphs before metamorphosing into flying adults."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Honeybee",
+      "taxonomy": "",
+      "text": "Honeybees are small, fuzzy insects with yellow and black stripes. They feed on nectar and pollen, producing honey and wax. Living in highly organized colonies, they play a crucial role in pollination and communicate via waggle dances to indicate food sources."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Praying Mantis",
+      "taxonomy": "",
+      "text": "Praying mantises are green or brown predatory insects with elongated bodies and folded forearms used to catch prey. They feed on insects and sometimes small vertebrates. They are masters of camouflage and exhibit sexual cannibalism in some species."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Grasshopper",
+      "taxonomy": "",
+      "text": "Grasshoppers are medium-sized insects with strong hind legs adapted for jumping and usually green or brown coloring. They feed on grasses and leaves. Their chirping sounds are produced by rubbing their wings or legs and are used to attract mates."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Firefly",
+      "taxonomy": "",
+      "text": "Fireflies are small, soft-bodied beetles that produce bioluminescent light to attract mates. They feed on nectar and small insects. They are nocturnal and use their flashing patterns as communication signals."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Cockroach",
+      "taxonomy": "",
+      "text": "Cockroaches are flat, oval-shaped insects with brown or black exoskeletons. They are omnivorous scavengers, eating a wide variety of organic material. They are incredibly resilient and can survive in harsh environments."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Termite",
+      "taxonomy": "",
+      "text": "Termites are small, pale, social insects that live in colonies with a queen. They feed on cellulose, mainly wood and plant material, causing damage to structures. Soldiers protect the colony while workers gather food."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Mosquito",
+      "taxonomy": "",
+      "text": "Mosquitoes are slender, long-legged insects with wings and a proboscis for piercing skin. Females feed on blood while males feed on nectar. They are vectors for many diseases including malaria and dengue."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Cricket",
+      "taxonomy": "",
+      "text": "Crickets are medium-sized insects, usually brown or black, with long antennae and powerful hind legs. They feed on plants, fungi, and small insects. Male crickets produce chirping sounds by rubbing their wings to attract females."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Silkworm",
+      "taxonomy": "",
+      "text": "Silkworms are the larvae of silk moths, pale and segmented with a soft body. They feed exclusively on mulberry leaves. They produce silk fibers to spin cocoons, used extensively in textiles."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Moth",
+      "taxonomy": "",
+      "text": "Moths are usually nocturnal insects with feathery or threadlike antennae and diverse wing patterns. They feed on nectar, sap, or liquids from rotting fruits. Some species are important pollinators at night."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Beetle",
+      "taxonomy": "",
+      "text": "Beetles are a large group of insects with hard exoskeletons and forewings called elytra. They feed on plants, fungi, or other insects depending on species. Beetles exhibit a huge variety of colors and behaviors."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Ant",
+      "taxonomy": "",
+      "text": "Ants are small social insects with segmented bodies and strong mandibles. They feed on nectar, seeds, or insects. Ant colonies have complex social structures with queens, workers, and soldiers."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Wasp",
+      "taxonomy": "",
+      "text": "Wasps are slender insects with narrow waists and smooth bodies, often brightly colored. They feed on nectar and other insects. Many are predators or parasitoids, and some species can sting repeatedly."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Bumblebee",
+      "taxonomy": "",
+      "text": "Bumblebees are large, fuzzy bees with black and yellow stripes. They feed on nectar and pollen. They are important pollinators and can buzz-pollinate certain flowers that honeybees cannot."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Aphid",
+      "taxonomy": "",
+      "text": "Aphids are tiny, soft-bodied insects, usually green or black. They feed on plant sap, often causing damage to crops. They reproduce rapidly and can be tended by ants for their honeydew secretion."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Cicada",
+      "taxonomy": "",
+      "text": "Cicadas are medium to large insects with membranous wings and prominent eyes. They feed on plant sap. Many species emerge in large numbers periodically and produce loud buzzing sounds."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Earwig",
+      "taxonomy": "",
+      "text": "Earwigs are small, elongated insects with pincers at the end of their abdomen. They feed on plants and small insects. They are mostly nocturnal and hide in crevices during the day."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Bedbug",
+      "taxonomy": "",
+      "text": "Bedbugs are small, reddish-brown, flat insects that feed exclusively on blood, usually at night. They hide in crevices, mattresses, and furniture during the day. Bedbugs are notorious for their resilience and rapid reproduction, making infestations difficult to control."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Caddisfly",
+      "taxonomy": "",
+      "text": "Caddisflies are small to medium insects with hairy wings, closely related to moths. Their larvae are aquatic and build protective cases from sand, plant material, or small stones. Adults feed on nectar or do not feed at all and are mostly active at night."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Mayfly",
+      "taxonomy": "",
+      "text": "Mayflies are delicate insects with elongated bodies and two or three long tail filaments. They feed on algae in their aquatic nymph stage and live only a few hours as adults, mainly to reproduce. They are indicators of freshwater ecosystem health."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Ladybird",
+      "taxonomy": "",
+      "text": "Ladybirds are small, rounded beetles with bright red or orange shells and black spots. They feed on aphids and scale insects, making them natural pest controllers. They can secrete a foul-smelling fluid to deter predators."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Stick Insect",
+      "taxonomy": "",
+      "text": "Stick insects are long, thin insects that closely resemble twigs or branches for camouflage. They feed on leaves and are mostly nocturnal. Some species can regenerate lost limbs and exhibit fascinating defensive behaviors like rocking to mimic vegetation."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Termite Soldier",
+      "taxonomy": "",
+      "text": "Termite soldiers are pale, wingless insects with strong mandibles. They defend the colony from predators while workers forage for cellulose-rich food like wood and plant material. They are part of a complex social hierarchy within termite colonies."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Leafhopper",
+      "taxonomy": "",
+      "text": "Leafhoppers are small, agile insects with colorful wings and large eyes. They feed on plant sap and can transmit plant pathogens. Their jumping ability allows them to escape predators quickly."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Fruit Fly",
+      "taxonomy": "",
+      "text": "Fruit flies are tiny flies attracted to fermenting fruits and vegetables. They feed on sugars and yeast, and are widely used in genetics research due to their rapid reproduction and simple genome. Adults live for only a few weeks."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Tsetse Fly",
+      "taxonomy": "",
+      "text": "Tsetse flies are medium-sized, brownish flies with long proboscises for piercing skin. Females feed on blood, transmitting diseases like sleeping sickness. They are found in sub-Saharan Africa and play a major role in livestock and human health."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Horsefly",
+      "taxonomy": "",
+      "text": "Horseflies are large, robust flies with powerful wings. Females feed on blood while males feed on nectar. They are strong fliers and can deliver painful bites, often targeting livestock."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Flea",
+      "taxonomy": "",
+      "text": "Fleas are tiny, wingless insects with flattened bodies adapted for jumping. They feed on blood from mammals and birds and can transmit diseases like plague. Their resilience and reproductive rate make them persistent parasites."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Louse",
+      "taxonomy": "",
+      "text": "Lice are small, wingless, parasitic insects that live on hair, feathers, or skin. They feed on blood or skin debris. Lice are host-specific and often cause itching and discomfort."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Silverfish",
+      "taxonomy": "",
+      "text": "Silverfish are primitive, wingless insects with silvery, elongated bodies. They feed on starchy materials like paper, glue, and fabrics. They are nocturnal and can survive in dark, damp areas for long periods."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Bedbug Nymph",
+      "taxonomy": "",
+      "text": "Bedbug nymphs are immature forms of bedbugs, smaller and translucent. They feed on blood like adults and molt several times before reaching maturity. They are mostly nocturnal and hide in tight spaces."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Cicada Nymph",
+      "taxonomy": "",
+      "text": "Cicada nymphs are subterranean insects that feed on plant roots for several years before emerging. They undergo metamorphosis into winged adults. Their synchronized emergence can produce massive sound displays."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Earwig Nymph",
+      "taxonomy": "",
+      "text": "Earwig nymphs resemble adults but are smaller and lighter in color. They feed on plant matter and small insects. Earwig mothers guard eggs and sometimes young nymphs, showing rare parental care in insects."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Scarab Beetle",
+      "taxonomy": "",
+      "text": "Scarab beetles are stout, oval insects, often metallic or brightly colored. They feed on dung, decaying matter, or plants depending on species. Many are revered culturally and exhibit strong digging behavior."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Weevil",
+      "taxonomy": "",
+      "text": "Weevils are small beetles with elongated snouts. They feed on plants, seeds, or stored grains. Some species are serious agricultural pests due to their boring habits."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Stink Bug",
+      "taxonomy": "",
+      "text": "Stink bugs are shield-shaped insects that release a foul-smelling liquid when threatened. They feed on plant juices and can damage crops. Their vivid patterns help identify species."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Leafcutter Ant",
+      "taxonomy": "",
+      "text": "Leafcutter ants are medium-sized social insects that cut leaves to cultivate fungus as food. They live in massive colonies with complex caste systems. Their trail-laying and cooperation are remarkable."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Fire Ant",
+      "taxonomy": "",
+      "text": "Fire ants are reddish-brown ants with painful stings. They feed on insects, seeds, and sweet substances. Their aggressive behavior and mound-building skills make them well-known pests."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Carpenter Ant",
+      "taxonomy": "",
+      "text": "Carpenter ants are large black or reddish ants that hollow out wood to build nests. They feed on insects and sugary liquids. They play a role in forest ecology but can damage structures."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Damsel Bug",
+      "taxonomy": "",
+      "text": "Damsel bugs are small, predatory insects with elongated bodies. They feed on pests like aphids and caterpillars. They are beneficial for natural pest control in gardens."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Water Strider",
+      "taxonomy": "",
+      "text": "Water striders are slender insects that skate on the surface of ponds and streams. They feed on insects trapped on the water surface. Their legs distribute weight to avoid sinking."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Stonefly",
+      "taxonomy": "",
+      "text": "Stoneflies are medium-sized aquatic insects with two pairs of membranous wings. Nymphs feed on algae and detritus. They are indicators of freshwater ecosystem health."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "May Beetle",
+      "taxonomy": "",
+      "text": "May beetles are robust, brown beetles active during spring. Adults feed on leaves, while larvae feed on roots underground. They are important for soil aeration and nutrient cycling."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Cockchafer",
+      "taxonomy": "",
+      "text": "Cockchafers are large, brown beetles with fan-like antennae. Adults feed on leaves, larvae (white grubs) feed on roots. They emerge seasonally and are often seen in large numbers."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Glow-worm",
+      "taxonomy": "",
+      "text": "Glow-worms are beetle larvae that emit light to attract prey or mates. They feed on small insects and other invertebrates. Their luminescence is a defense and communication mechanism."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Mantidfly",
+      "taxonomy": "",
+      "text": "Mantidflies resemble mantises but are actually lacewings. They feed on other insects and lay eggs in spider egg sacs. Their predatory adaptations are remarkable."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Tiger Beetle",
+      "taxonomy": "",
+      "text": "Tiger beetles are fast-running predatory beetles with metallic colors. They feed on small insects and use speed and sharp mandibles to catch prey. They are indicators of healthy habitats."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Walking Stick",
+      "taxonomy": "",
+      "text": "Walking sticks are elongated insects that mimic sticks or twigs for camouflage. They feed on leaves. Some species can regenerate lost limbs and exhibit fascinating defensive behaviors."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Atlas Moth",
+      "taxonomy": "",
+      "text": "Atlas moths are among the largest moths, with intricate wing patterns. Adults do not feed, relying on stored energy. Their large wingspan helps in predator avoidance and mating displays."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Luna Moth",
+      "taxonomy": "",
+      "text": "Luna moths are pale green moths with long tails on hindwings. Adults do not feed and live for about a week. Their unique wing shape helps confuse predators."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Giant Water Bug",
+      "taxonomy": "",
+      "text": "Giant water bugs are large aquatic insects with raptorial front legs. They feed on fish, tadpoles, and other insects. They can deliver painful bites when handled."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Dobsonfly",
+      "taxonomy": "",
+      "text": "Dobsonflies are large insects with elongated mandibles (males) and aquatic larvae (hellgrammites). Larvae feed on other aquatic insects. Adults are short-lived and mostly nocturnal."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Stone Centipede",
+      "taxonomy": "",
+      "text": "Stone centipedes are long, flattened predatory insects with multiple legs. They feed on insects and worms. They are fast and mostly nocturnal."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Earwig",
+      "taxonomy": "",
+      "text": "Earwigs are elongated insects with pincers on the abdomen. They feed on plants and small insects. They are mostly nocturnal and hide in crevices during the day."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Silvanid Beetle",
+      "taxonomy": "",
+      "text": "Silvanid beetles are small, flattened insects that feed on fungi and stored products. They often inhabit decaying wood or food storage areas."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Jumping Spider",
+      "taxonomy": "",
+      "text": "Though not an insect technically, these small arachnids feed on insects. They have exceptional vision and can leap to catch prey. Often confused as insects by casual observers."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Lacewing",
+      "taxonomy": "",
+      "text": "Lacewings are delicate green insects with transparent wings. Their larvae are voracious predators of aphids and other soft-bodied insects. Adults feed on nectar and pollen."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Hoverfly",
+      "taxonomy": "",
+      "text": "Hoverflies mimic bees and wasps but are harmless. They feed on nectar and pollen. Larvae of some species feed on aphids, making them beneficial in gardens."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Blister Beetle",
+      "taxonomy": "",
+      "text": "Blister beetles are elongated beetles that secrete cantharidin, a toxic chemical. They feed on flowers and leaves. This chemical acts as a defense against predators."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Dung Beetle",
+      "taxonomy": "",
+      "text": "Dung beetles feed on animal feces, rolling it into balls for food and egg-laying. They have strong legs and heads for rolling and burying dung. They play an important role in nutrient recycling."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Water Boatman",
+      "taxonomy": "",
+      "text": "Water boatmen are small aquatic insects with oar-like hind legs. They feed on algae and small invertebrates. They can swim efficiently on water surfaces and underwater."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Backswimmer",
+      "taxonomy": "",
+      "text": "Backswimmers are aquatic insects that swim upside-down. They feed on other insects and small aquatic animals. They have air sacs for buoyancy and breathe by coming to the water surface."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Stone Centipede",
+      "taxonomy": "",
+      "text": "Stone centipedes are long, predatory insects with many legs. They feed on insects and worms. They are nocturnal and hide under rocks and debris."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Caddisfly Larva",
+      "taxonomy": "",
+      "text": "Caddisfly larvae are aquatic, building protective cases from sand and plant material. They feed on detritus or small organisms. They are important for freshwater ecosystems."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Dobsonfly Larva",
+      "taxonomy": "",
+      "text": "Dobsonfly larvae (hellgrammites) are large aquatic predators. They feed on other aquatic insects and small invertebrates. They live under stones in streams and are indicators of clean water."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Antlion",
+      "taxonomy": "",
+      "text": "Antlions are larvae that dig conical pits to trap ants. Adults resemble dragonflies and feed on nectar. Larvae feed exclusively on trapped prey, exhibiting ambush predatory behavior."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Giant Asian Mantis",
+      "taxonomy": "",
+      "text": "Giant Asian mantises are large green predatory insects. They feed on insects and sometimes small vertebrates. Known for aggressive hunting and remarkable camouflage."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Peacock Butterfly",
+      "taxonomy": "",
+      "text": "Peacock butterflies have colorful wings with eye-like patterns. They feed on nectar. The eyespots deter predators by mimicking larger animals."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Cabbage White Butterfly",
+      "taxonomy": "",
+      "text": "Small white butterflies with black wing tips. Larvae feed on cabbage and related plants. Adults feed on nectar and are common garden pests."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Swallowtail Butterfly",
+      "taxonomy": "",
+      "text": "Large, colorful butterflies with tail-like extensions on hindwings. Feed on nectar. Caterpillars feed on host plants like citrus, showing mimicry for defense."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Tiger Moth",
+      "taxonomy": "",
+      "text": "Medium-sized moths with striking colors and patterns. Caterpillars feed on various plants. Adults use chemical defenses and bright coloration to warn predators."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Lappet Moth",
+      "taxonomy": "",
+      "text": "Large moths with patterned wings. Caterpillars feed on leaves. Adults are nocturnal and attracted to light."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Bagworm",
+      "taxonomy": "",
+      "text": "Larvae build protective silk bags covered with debris. Feed on leaves. Adult males are winged, females mostly stay in bags."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Tent Caterpillar",
+      "taxonomy": "",
+      "text": "Larvae build silk tents in trees. Feed on leaves. Live communally and can defoliate host trees."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Luna Moth",
+      "taxonomy": "",
+      "text": "Pale green moth with long hindwing tails. Adults do not feed. They live about a week, mating to continue the cycle."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Atlas Moth",
+      "taxonomy": "",
+      "text": "Large moth with elaborate wing patterns. Adults do not feed. Used for silk production in some cultures."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Hickory Horned Devil",
+      "taxonomy": "",
+      "text": "Large green caterpillar with spiny projections. Feeds on hickory and walnut leaves. Harmless to humans despite intimidating look."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Tarantula Hawk Wasp",
+      "taxonomy": "",
+      "text": "Large wasp with metallic blue body. Feeds on nectar. Females paralyze tarantulas to lay eggs in their bodies."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Hornet",
+      "taxonomy": "",
+      "text": "Large wasp with yellow and black stripes. Feeds on insects and nectar. Aggressive defense and painful sting."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Japanese Beetle",
+      "taxonomy": "",
+      "text": "Shiny green beetle with bronze wing covers. Feeds on flowers, fruits, and leaves. Can be a significant pest."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Colorado Potato Beetle",
+      "taxonomy": "",
+      "text": "Striped beetle that feeds on potato plants. Larvae and adults consume leaves. Known for rapid reproduction."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Locust",
+      "taxonomy": "",
+      "text": "Grasshopper-like insect that swarms in huge numbers. Feeds on crops. Causes significant agricultural damage."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Stonefly Nymph",
+      "taxonomy": "",
+      "text": "Aquatic nymphs with elongated bodies. Feed on algae and detritus. Indicators of freshwater quality."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Mayfly Nymph",
+      "taxonomy": "",
+      "text": "Aquatic larvae feed on algae. Short adult lifespan mainly for reproduction. Sensitive to pollution."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Damselfly",
+      "taxonomy": "",
+      "text": "Slender, colorful insect with two pairs of wings. Predatory on small insects. Aquatic larvae live in water."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Golden Silk Orb-Weaver",
+      "taxonomy": "",
+      "text": "Large spider (not insect) with golden web. Feeds on insects. Creates elaborate orb-shaped webs."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Orb-Weaver Spider",
+      "taxonomy": "",
+      "text": "Spider that spins intricate webs. Feeds on insects. Often mistaken as insect by casual observers."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Housefly",
+      "taxonomy": "",
+      "text": "Common fly with gray thorax and four dark stripes. Feeds on decaying matter. Vectors for many pathogens."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Blowfly",
+      "taxonomy": "",
+      "text": "Metallic-colored fly. Larvae feed on carrion. Important in forensic studies."
+    },
+    {
+      "id": "_0",
+      "species_id": "",
+      "name": "Fruit Beetle",
+      "taxonomy": "",
+      "text": "Small beetle attracted to fruits. Feeds on overripe fruits. Often used in decomposition studies."
+    }
+  ]
+}

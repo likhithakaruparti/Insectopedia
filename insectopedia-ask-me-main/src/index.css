@@ -1,0 +1,153 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RAG System Design System - Modern & Professional
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Base colors - Clean scientific background */
+    --background: 120 20% 98%;
+    --foreground: 150 15% 15%;
+
+    /* Cards - Subtle nature tint */
+    --card: 120 30% 99%;
+    --card-foreground: 150 15% 15%;
+
+    /* Popovers */
+    --popover: 120 30% 99%;
+    --popover-foreground: 150 15% 15%;
+
+    /* Primary - Deep forest green */
+    --primary: 140 60% 25%;
+    --primary-foreground: 120 20% 98%;
+    --primary-glow: 140 50% 35%;
+
+    /* Secondary - Warm earth tone */
+    --secondary: 35 25% 88%;
+    --secondary-foreground: 150 15% 15%;
+
+    /* Muted - Soft natural background */
+    --muted: 120 15% 94%;
+    --muted-foreground: 150 10% 45%;
+
+    /* Accent - Vibrant insect wing color */
+    --accent: 200 85% 45%;
+    --accent-foreground: 120 20% 98%;
+    --accent-glow: 200 75% 55%;
+
+    /* Destructive */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 120 20% 98%;
+
+    /* Borders and inputs */
+    --border: 120 20% 85%;
+    --input: 120 25% 90%;
+    --ring: 140 60% 25%;
+
+    --radius: 0.75rem;
+
+    /* Custom design tokens for RAG System */
+    --hero-gradient: linear-gradient(135deg, hsl(140 60% 25%) 0%, hsl(140 50% 35%) 50%, hsl(200 85% 45%) 100%);
+    --nature-gradient: linear-gradient(180deg, hsl(120 30% 99%) 0%, hsl(120 20% 96%) 100%);
+    --accent-gradient: linear-gradient(90deg, hsl(200 85% 45%) 0%, hsl(200 75% 55%) 100%);
+    
+    /* Shadows with organic feel */
+    --shadow-organic: 0 10px 40px -15px hsl(140 60% 25% / 0.2);
+    --shadow-accent: 0 5px 20px -5px hsl(200 85% 45% / 0.3);
+    --shadow-card: 0 4px 20px -4px hsl(120 20% 50% / 0.1);
+    
+    /* Smooth natural transitions */
+    --transition-organic: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+    /* Sidebar tokens */
+    --sidebar-background: 120 25% 97%;
+    --sidebar-foreground: 150 15% 25%;
+    --sidebar-primary: 140 60% 25%;
+    --sidebar-primary-foreground: 120 20% 98%;
+    --sidebar-accent: 120 20% 92%;
+    --sidebar-accent-foreground: 150 15% 25%;
+    --sidebar-border: 120 20% 85%;
+    --sidebar-ring: 140 60% 25%;
+  }
+
+  .dark {
+    --background: 150 25% 8%;
+    --foreground: 120 20% 95%;
+
+    --card: 150 20% 10%;
+    --card-foreground: 120 20% 95%;
+
+    --popover: 150 20% 10%;
+    --popover-foreground: 120 20% 95%;
+
+    --primary: 140 60% 45%;
+    --primary-foreground: 150 25% 8%;
+
+    --secondary: 150 15% 15%;
+    --secondary-foreground: 120 20% 95%;
+
+    --muted: 150 15% 12%;
+    --muted-foreground: 120 10% 65%;
+
+    --accent: 200 85% 55%;
+    --accent-foreground: 150 25% 8%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 120 20% 95%;
+
+    --border: 150 15% 18%;
+    --input: 150 15% 18%;
+    --ring: 140 60% 45%;
+
+    --sidebar-background: 150 25% 8%;
+    --sidebar-foreground: 120 15% 85%;
+    --sidebar-primary: 140 60% 45%;
+    --sidebar-primary-foreground: 150 25% 8%;
+    --sidebar-accent: 150 15% 15%;
+    --sidebar-accent-foreground: 120 15% 85%;
+    --sidebar-border: 150 15% 18%;
+    --sidebar-ring: 140 60% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Custom utility classes for RAG System */
+  .hero-gradient {
+    background: var(--hero-gradient);
+  }
+
+  .nature-gradient {
+    background: var(--nature-gradient);
+  }
+
+  .accent-gradient {
+    background: var(--accent-gradient);
+  }
+
+  .shadow-organic {
+    box-shadow: var(--shadow-organic);
+  }
+
+  .shadow-accent {
+    box-shadow: var(--shadow-accent);
+  }
+
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+
+  .transition-organic {
+    transition: var(--transition-organic);
+  }
+}
