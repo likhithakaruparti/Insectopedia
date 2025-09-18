@@ -1,6 +1,3 @@
-Sure! Here’s a complete, professional, and copy-paste-ready **README.md** for your Insectopedia RAG project, including deployment instructions for Render:
-
-```markdown
 # 🦋 Insectopedia RAG
 
 Insectopedia is an AI-powered research assistant for insect data. Users can query an existing dataset (CSV) of insects, and the AI provides contextual answers using **retrieval-augmented generation (RAG)** with FastAPI backend and React frontend.
