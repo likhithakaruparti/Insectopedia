@@ -171,8 +171,3 @@ MIT License © 2025
 ```
 
 ---
-
-I can also write a **shorter version optimized for GitHub deployment**, including a **one-click Render deployment badge and instructions** if you want.  
-
-Do you want me to do that?
-```
